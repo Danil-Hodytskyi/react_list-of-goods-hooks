@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,KACE,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,sCAAgC,CAAhC,8BAAgC,CAChC,iBACF","file":"main.12a12007.chunk.css","sourcesContent":["/* not empty */\n.App {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  text-align: center;\n}\n"]}
